@@ -234,7 +234,6 @@ public class p5_percabangan {
             }
         } else {
             System.out.println("Anda ditilang!");
-        }
 
     //TILANG WITH LOGIC OPERATOR
         boolean SIML = false;
@@ -245,7 +244,7 @@ public class p5_percabangan {
             System.out.println("Tidak ditilang!");
         } else {
             System.out.println("Anda ditilang!");
-        }  
+        }    
 
     }
 }
